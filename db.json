@@ -1,6 +1,12 @@
 {
     "users":[
-
+        {
+            "id": 2,
+            "name": "Nazar",
+            "surname": "Mishchenko",
+            "photo_url": "http://surl.li/gjwcl",
+            "balance": 2000
+        }
         
     ]
 }
