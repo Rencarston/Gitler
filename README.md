@@ -1,3 +1,3 @@
 # Gitler
 # Boba
-# Stalin
+# Stalin 🥵
