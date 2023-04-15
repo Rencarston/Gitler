@@ -1,6 +1,12 @@
 {
     "users":[
-
+        {
+            "id":3,
+            "name": "Egor",
+            "sirname": "Samelyuk",
+            "photo_url": "https://static.jojowiki.com/images/thumb/c/ce/latest/20210107171552/Yoshikage_Kira_Original_Infobox_Manga.png/400px-Yoshikage_Kira_Original_Infobox_Manga.png",
+            "balance": 5000
+        }
         
     ]
 }
